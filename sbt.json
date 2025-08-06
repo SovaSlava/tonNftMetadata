@@ -1,7 +1,7 @@
 {
-  "name": "This is sbt",
-  "description": "This is description",
-  "image": "https://github.com/SovaSlava/tonNftMetadata/blob/master/sbtImage.jpg?raw=true",
-  "content_url": "https://storage.googleapis.com/tonsociety/a85f0f05-068c-4b17-bac5-58e7f6734f1e.mp4",
-  "content_type": "video/mp4",
+  "name": "Season 2 Airdrop Member",
+  "description": "This SBT confirms that you have completed the Season 2 checklist and claimed the official airdrop, verifying your daily logins, partner game plays, and event participation. Holders earn community recognition and gain early access to benefits from future drops.",
+  "image": "hhttps://github.com/SovaSlava/tonNftMetadata/blob/master/Season2AirdropParticipant.png?raw=true",
+  "content_url": "https://github.com/SovaSlava/tonNftMetadata/blob/master/Season2AirdropParticipant.png?raw=true",
+  "content_type": "image/png"
 }
