@@ -1,0 +1,12 @@
+{
+    "name": "TON Station SBT",
+    "description": "TON Station SBT is a limited-edition Soulbound Token collection that celebrates your journey through our platform milestones. Each SBT commemorates a specific achievement.",
+    "image": "https://github.com/SovaSlava/tonNftMetadata/blob/master/TONStationSBT.png?raw=true",
+    "cover_image": "https://github.com/SovaSlava/tonNftMetadata/blob/master/TONStationSBT.png?raw=true",
+    "social_links": [
+        "https://t.me/tonstationgames",
+        "https://x.com/tonstationgames"
+    ],
+    "website": "https://tonstation.app/",
+    "bot": "https://t.me/tonstationgames_bot/app?startapp=ref_5kya617mqa1fnaacwouthn__utm_SBT"
+}
