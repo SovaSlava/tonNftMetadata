@@ -1,0 +1,7 @@
+{
+  "name": "FakeTether USD",
+  "symbol": "FUSD₮",
+  "decimals": "6",
+  "image": "https://tether.to/images/logoCircle.png",
+  "description": "Tether Token for Tether USD"
+}
