@@ -1,0 +1,7 @@
+{
+  "name": "NF 100",
+  "description": "This nft confirms that you have completed level.",
+  "image": "https://github.com/SovaSlava/tonNftMetadata/blob/master/100.jpg?raw=true",
+  "content_url": "https://github.com/SovaSlava/tonNftMetadata/blob/master/100.jpg?raw=true",
+  "content_type": "image/png"
+}
